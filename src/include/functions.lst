@@ -1,0 +1,8 @@
+DEFINE(and,'&')
+DEFINE(or,'|')
+DEFINE(xor,'^')
+DEFINE(add,'+')
+DEFINE(subtract,'-')
+DEFINE(multiply,'*')
+DEFINE(divide,'/')
+DEFINE(mod,'%')
